@@ -1,3 +1,9 @@
+EXPENSE TRACKER 
+
+made by Rishabh Kumar Sudhansu[24BSA10079]
+
+
+
 Purpose
 - Simple command-line expense tracker used for learning Java IO, collections and basic design.
 
